@@ -7,4 +7,9 @@
 #canvas {
     border: 1px solid red;
     display: block;
+    touch-action: none;
+}
+
+body {
+    overflow: hidden;
 }
